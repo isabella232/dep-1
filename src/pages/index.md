@@ -1,13 +1,14 @@
 ---
-title: Overview - Adobe Analytics
-description: This is the overview page of Adobe Analytics
+title: Overview - Adobe DEP
+description: Training for the enterprise developer
 contributors:
-  - https://github.com/icaraps 
+  - https://github.com/dbenge 
+  - https://github.com/knee
 ---
 
 <Hero slots="heading, text"/> 
 
-# Adobe Analytics API
+# DEP Training program
 
 Adobe Product API offers limitless ways to integrate your most important customer data into key business processes. Adobe Product API offer limitless ways.
 
