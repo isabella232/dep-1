@@ -18,7 +18,7 @@ The Adobe Experience Platform powers a wide breadth of the Experience Cloud appl
 
 ## Discover 
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
+<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
 
 <!--![CC icon](images/cc-icon.png)-->
 
@@ -29,7 +29,7 @@ Go in depth to learn about how the Adobe Experience Cloud is architected
 * [Learn More](/courses/adobe-experience-cloud-essentials/)
 
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
+<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
 
 <!--![CC icon](images/cc-icon.png)-->
 
@@ -40,7 +40,7 @@ Go in depth to learn about how the Adobe Experience Platform is architected
 * [Learn More](/courses/adobe-experience-platform-essentials/)
 
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
+<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
 
 <!--![CC icon](images/cc-icon.png)-->
 
