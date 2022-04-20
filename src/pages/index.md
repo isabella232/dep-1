@@ -18,8 +18,6 @@ The Adobe Experience Platform powers a wide breadth of the Experience Cloud appl
 
 ## Discover 
 
-<DiscoverBlock width="100%" slots="heading, link, text"/>
-
 <ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 <!--![CC icon](images/cc-icon.png)-->
