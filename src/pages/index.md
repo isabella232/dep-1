@@ -20,8 +20,6 @@ The Adobe Experience Platform powers a wide breadth of the Experience Cloud appl
 
 <ProductCard slots="heading, text, buttons" theme="light" width="33%" />
 
-<!--![CC icon](images/cc-icon.png)-->
-
 #### Experience Cloud Essentials
 
 Go in depth to learn about how the Adobe Experience Cloud is architected
@@ -31,8 +29,6 @@ Go in depth to learn about how the Adobe Experience Cloud is architected
 
 <ProductCard slots="heading, text, buttons" theme="light" width="33%" />
 
-<!--![CC icon](images/cc-icon.png)-->
-
 #### Experience Cloud Platform Essentials
 
 Go in depth to learn about how the Adobe Experience Platform is architected
@@ -41,8 +37,6 @@ Go in depth to learn about how the Adobe Experience Platform is architected
 
 
 <ProductCard slots="heading, text, buttons" theme="light" width="33%" />
-
-<!--![CC icon](images/cc-icon.png)-->
 
 #### Experience Cloud Platform Technical Foundation
 
